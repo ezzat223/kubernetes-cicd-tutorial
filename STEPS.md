@@ -1,6 +1,5 @@
 # Kubernetes CICD Tutorial
 
-
 ---
 
 ## Creating Container Registry and GitOps PAT
@@ -19,7 +18,7 @@
 
 ---
 
-## Self-hosted runner
+## If using a Self-hosted runner
 
 >Go to the kubernetes-cicd-tutorial repo, settings, Actions, Runners, New self-hosted runner:
 >If you have done this before, just run this command:
